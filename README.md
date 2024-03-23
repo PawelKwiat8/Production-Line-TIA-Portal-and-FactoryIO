@@ -50,8 +50,8 @@ Blok DB1 jest przypisyany do 1 stanowiska , Blok DB2 do drugiego
 
 ## Demo Wideo
 
-[![Demo Video1]()](project_box_stacking/videos/demo_video.mp4)
-[![Demo Video2]()](project_box_stacking/videos/demo_video.mp4)
+[![Demo Video1]()](project_box_stacking/images/FactoryIO_part1.mp4)
+[![Demo Video2]()](project_box_stacking/images/FactoryIO_part2.mp4)
 
 ## Drzewo Projektu , Main OB1
 ![](project_box_stacking/images/main_view.PNG)
