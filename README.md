@@ -1,4 +1,4 @@
-# SmartStacker: Integracja TIA Portal z Factory IO dla Zautomatyzowanych Systemów Produkcyjnych
+#  Integracja TIA Portal z Factory IO dla Zautomatyzowanych Systemów Produkcyjnych
 
 ## O Projekcie
 
