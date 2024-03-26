@@ -2,7 +2,7 @@
 
 ## O Projekcie
 
-SmartStacker to edukacyjny projekt do symulacji i kontroli zautomatyzowanej linii produkcyjnej. Projekt skupia się na nauczaniu programowania PLC poprzez praktyczne doświadczenie ze środowiskiem TIA Portal wraz z symulatorem sterownika.
+Jest to edukacyjny projekt do symulacji i kontroli zautomatyzowanej linii produkcyjnej mającej na celu składanie podstawy z przykrywką i transportowanie ich dalej. Projekt skupia się na nauczaniu programowania PLC poprzez praktyczne doświadczenie ze środowiskiem TIA Portal wraz z symulatorem sterownika.
 
 ## Cele Projektu
 
