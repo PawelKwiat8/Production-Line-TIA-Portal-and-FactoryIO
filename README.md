@@ -48,8 +48,8 @@ Składa się ona z dwóch głównych taśmociągów, na których umieszczono dwa
 ### Wykorzystanie funkcji Fb do 2 stanowisk 
 Blok DB1 jest przypisyany do 1 stanowiska , Blok DB2 do drugiego
 
-## Demo Wideo
-
+## Demo 
+![](project_box_stacking/images/production_line.PNG)
 [![Demo Video1]()](project_box_stacking/images/FactoryIO_part1.mp4)
 [![Demo Video2]()](project_box_stacking/images/FactoryIO_part2.mp4)
 
